@@ -25,6 +25,9 @@ imageio==2.9.0
 
 Pillow==8.0.1
 
+## SN-Patch Discriminator
+
+
 ## Some Results
 
 
