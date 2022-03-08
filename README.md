@@ -11,10 +11,6 @@ Moreover, to avoid the mask error accumulation in existing works, a dynamic norm
 Such a dual-pyramidal structure along with dynamic normalization significantly improve the inpainting quality, outperforming existing competitors.
 Comprehensive experiments conducted on three benchmark datasets demonstrate that our DPNet performs favorably against the state-of-the-arts.
 
-## Evaluation on GMacs and Parameters number
-GFLOPs = 55.58
-
-One can also evaluate any model by running `./flops_count.py`.
 
 ## Code
 * Code will be realeased soon.
