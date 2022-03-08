@@ -11,6 +11,22 @@ Moreover, to avoid the mask error accumulation in existing works, a dynamic norm
 Such a dual-pyramidal structure along with dynamic normalization significantly improve the inpainting quality, outperforming existing competitors.
 Comprehensive experiments conducted on three benchmark datasets demonstrate that our DPNet performs favorably against the state-of-the-arts.
 
+## Requirements
+
+scipy==1.1.0
+
+numpy==1.16.2
+
+torch==1.1.0
+
+torchvision==0.3.0
+
+imageio==2.9.0
+
+Pillow==8.0.1
+
+## Some Results
+
 
 ## Code
 * Code will be realeased soon.
