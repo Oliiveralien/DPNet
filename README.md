@@ -26,7 +26,7 @@ imageio==2.9.0
 Pillow==8.0.1
 
 ## SN-Patch Discriminator
-
+![](https://github.com/Oliiveralien/DPNet/blob/main/pics/Discriminator.jpg)
 
 ## Some Results
 
