@@ -29,7 +29,10 @@ Pillow==8.0.1
 ![](https://github.com/Oliiveralien/DPNet/blob/main/pics/Discriminator.jpg)
 
 ## Some Results
-
+[PSV](https://github.com/Oliiveralien/DPNet/blob/main/pics/Paris.jpg)
+[Places](https://github.com/Oliiveralien/DPNet/blob/main/pics/Places.jpg)
+[CelebA-HQ](https://github.com/Oliiveralien/DPNet/blob/main/pics/CelebA.jpg)
+[Object Removal](https://github.com/Oliiveralien/DPNet/blob/main/pics/OR.jpg)
 
 ## Code
 * Code will be realeased soon.
