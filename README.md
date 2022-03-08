@@ -1,5 +1,5 @@
 # DPNet
-This repo contains the code, results and evaluations of the paper ''Dual-Pyramidal Image Inpainting with Dynamic Normalization'' submitted in TCSVT.
+Code, results and evaluations of the paper ''Dual-Pyramidal Image Inpainting with Dynamic Normalization'' submitted for TCSVT.
 
 ## Introductoin
 Deep autoencoder-based approaches have achieved significant improvements on restoring damaged images, yet they still suffer from artifacts due to the inadequate representation and inaccurate regularization of existing features.
